@@ -1,0 +1,64 @@
+﻿table,variable,unit,qc_column,stage,imputed
+MET,WS_1m(m/s),m/s,QC_WS_1m,raw_cleaned,False
+MET,WS_2m(m/s),m/s,QC_WS_2m,raw_cleaned,False
+MET,WS_4m(m/s),m/s,QC_WS_4m,raw_cleaned,False
+MET,WS_10m(m/s),m/s,QC_WS_10m,raw_cleaned,False
+MET,WS_20m(m/s),m/s,QC_WS_20m,raw_cleaned,False
+MET,WD_1m(degree),degree,QC_WD_1m,raw_cleaned,False
+MET,WD_2m(degree),degree,QC_WD_2m,raw_cleaned,False
+MET,WD_4m(degree),degree,QC_WD_4m,raw_cleaned,False
+MET,WD_10m(degree),degree,QC_WD_10m,raw_cleaned,False
+MET,WD_20m(degree),degree,QC_WD_20m,raw_cleaned,False
+MET,Ta_1m(degree C),degree C,QC_Ta_1m,raw_cleaned,False
+MET,Ta_2m(degree C),degree C,QC_Ta_2m,raw_cleaned,False
+MET,Ta_4m(degree C),degree C,QC_Ta_4m,raw_cleaned,False
+MET,Ta_10m(degree C),degree C,QC_Ta_10m,raw_cleaned,False
+MET,Ta_20m(degree C),degree C,QC_Ta_20m,raw_cleaned,False
+MET,RH_1m(%),%,QC_RH_1m,raw_cleaned,False
+MET,RH_2m(%),%,QC_RH_2m,raw_cleaned,False
+MET,RH_4m(%),%,QC_RH_4m,raw_cleaned,False
+MET,RH_10m(%),%,QC_RH_10m,raw_cleaned,False
+MET,RH_20m(%),%,QC_RH_20m,raw_cleaned,False
+MET,Pressure(hPa),hPa,QC_Pressure,raw_cleaned,False
+MET,Precip(mm),mm,,raw_cleaned,False
+SOIL,soilT_0.1m(degree C),degree C,QC_soilT_0.1m,raw_cleaned,False
+SOIL,soilT_0.2m(degree C),degree C,QC_soilT_0.2m,raw_cleaned,False
+SOIL,soilT_0.4m(degree C),degree C,QC_soilT_0.4m,raw_cleaned,False
+SOIL,soilT_0.8m(degree C),degree C,QC_soilT_0.8m,raw_cleaned,False
+SOIL,soilT_1.6m(degree C),degree C,QC_soilT_1.6m,raw_cleaned,False
+SOIL,VWC_0.1m(m3/m3),m3/m3,QC_VWC_0.1m,raw_cleaned,False
+SOIL,VWC_0.2m(m3/m3),m3/m3,QC_VWC_0.2m,raw_cleaned,False
+SOIL,VWC_0.4m(m3/m3),m3/m3,QC_VWC_0.4m,raw_cleaned,False
+SOIL,VWC_0.8m(m3/m3),m3/m3,QC_VWC_0.8m,raw_cleaned,False
+SOIL,VWC_1.6m(m3/m3),m3/m3,QC_VWC_1.6m,raw_cleaned,False
+SOIL,G_0.1m(W/m2),W/m2,QC_G_0.1m,raw_cleaned,False
+SOIL,G_0.2m(W/m2),W/m2,QC_G_0.2m,raw_cleaned,False
+RADM,Rsd(W/m2),W/m2,QC_Rsd,raw_cleaned,False
+RADM,Rsu(W/m2),W/m2,QC_rsu,raw_cleaned,False
+RADM,Rld(W/m2),W/m2,QC_rld,raw_cleaned,False
+RADM,Rlu(W/m2),W/m2,QC_rlu,raw_cleaned,False
+FLUX,Ux(m/s),m/s,,raw_cleaned,False
+FLUX,Uy(m/s),m/s,,raw_cleaned,False
+FLUX,Uz(m/s),m/s,,raw_cleaned,False
+FLUX,T_SONIC(deg C),deg C,,raw_cleaned,False
+FLUX,amb_e(kPa),kPa,,raw_cleaned,False
+FLUX,amb_e_sat(kPa),kPa,,raw_cleaned,False
+FLUX,e(kPa),kPa,,raw_cleaned,False
+FLUX,e_sat(kPa),kPa,,raw_cleaned,False
+FLUX,e_probe(kPa),kPa,,raw_cleaned,False
+FLUX,e_sat_probe(kPa),kPa,,raw_cleaned,False
+FLUX,H2O_probe(g/m3),g/m3,,raw_cleaned,False
+FLUX,PA(kPa),kPa,,raw_cleaned,False
+FLUX,VPD(hPa),hPa,,raw_cleaned,False
+FLUX,H2O_density(g/m3),g/m3,,raw_cleaned,False
+FLUX,FC_mass(mg/m2*s),mg/m2*s,,raw_cleaned,False
+FLUX,LE(W/m2),W/m2,,raw_cleaned,False
+FLUX,H(W/m2),W/m2,,raw_cleaned,False
+FLUX,TAU(kg/m*s2),kg/m*s2,,raw_cleaned,False
+FLUX,USTAR(m/s),m/s,,raw_cleaned,False
+FLUX,TSTAR(deg C),deg C,,raw_cleaned,False
+FLUX,TKE(m2/s2),m2/s2,,raw_cleaned,False
+FLUX,FETCH_MAX(m),m,,raw_cleaned,False
+FLUX,FETCH_90(m),m,,raw_cleaned,False
+FLUX,FETCH_55(m),m,,raw_cleaned,False
+FLUX,FETCH_40(m),m,,raw_cleaned,False

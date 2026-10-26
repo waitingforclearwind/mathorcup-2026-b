@@ -1,0 +1,379 @@
+﻿file,table,year,variable,qc_column,n_raw_missing,n_sentinel,n_infinite,n_qc8,n_qc8_only,n_clean_missing
+MET_Gyirong_2021.csv,MET,2021,WS_1m(m/s),QC_WS_1m,0,2776,0,2776,0,2776
+MET_Gyirong_2021.csv,MET,2021,WS_2m(m/s),QC_WS_2m,0,2776,0,2776,0,2776
+MET_Gyirong_2021.csv,MET,2021,WS_4m(m/s),QC_WS_4m,0,2776,0,2776,0,2776
+MET_Gyirong_2021.csv,MET,2021,WS_10m(m/s),QC_WS_10m,0,2776,0,2776,0,2776
+MET_Gyirong_2021.csv,MET,2021,WS_20m(m/s),QC_WS_20m,0,2776,0,2776,0,2776
+MET_Gyirong_2021.csv,MET,2021,WD_1m(degree),QC_WD_1m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,WD_2m(degree),QC_WD_2m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,WD_4m(degree),QC_WD_4m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,WD_10m(degree),QC_WD_10m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,WD_20m(degree),QC_WD_20m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Ta_1m(degree C),QC_Ta_1m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Ta_2m(degree C),QC_Ta_2m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Ta_4m(degree C),QC_Ta_4m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Ta_10m(degree C),QC_Ta_10m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Ta_20m(degree C),QC_Ta_20m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,RH_1m(%),QC_RH_1m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,RH_2m(%),QC_RH_2m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,RH_4m(%),QC_RH_4m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,RH_10m(%),QC_RH_10m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,RH_20m(%),QC_RH_20m,0,2774,0,2774,0,2774
+MET_Gyirong_2021.csv,MET,2021,Pressure(hPa),QC_Pressure,0,2805,0,2805,0,2805
+MET_Gyirong_2021.csv,MET,2021,Precip(mm),,0,2776,0,0,0,2776
+MET_Gyirong_2022.csv,MET,2022,WS_1m(m/s),QC_WS_1m,0,21,0,21,0,21
+MET_Gyirong_2022.csv,MET,2022,WS_2m(m/s),QC_WS_2m,0,21,0,21,0,21
+MET_Gyirong_2022.csv,MET,2022,WS_4m(m/s),QC_WS_4m,0,21,0,21,0,21
+MET_Gyirong_2022.csv,MET,2022,WS_10m(m/s),QC_WS_10m,0,22,0,22,0,22
+MET_Gyirong_2022.csv,MET,2022,WS_20m(m/s),QC_WS_20m,0,22,0,22,0,22
+MET_Gyirong_2022.csv,MET,2022,WD_1m(degree),QC_WD_1m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,WD_2m(degree),QC_WD_2m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,WD_4m(degree),QC_WD_4m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,WD_10m(degree),QC_WD_10m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,WD_20m(degree),QC_WD_20m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Ta_1m(degree C),QC_Ta_1m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Ta_2m(degree C),QC_Ta_2m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Ta_4m(degree C),QC_Ta_4m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Ta_10m(degree C),QC_Ta_10m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Ta_20m(degree C),QC_Ta_20m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,RH_1m(%),QC_RH_1m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,RH_2m(%),QC_RH_2m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,RH_4m(%),QC_RH_4m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,RH_10m(%),QC_RH_10m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,RH_20m(%),QC_RH_20m,0,0,0,0,0,0
+MET_Gyirong_2022.csv,MET,2022,Pressure(hPa),QC_Pressure,0,19,0,19,0,19
+MET_Gyirong_2022.csv,MET,2022,Precip(mm),,0,1,0,0,0,1
+MET_Gyirong_2023.csv,MET,2023,WS_1m(m/s),QC_WS_1m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WS_2m(m/s),QC_WS_2m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WS_4m(m/s),QC_WS_4m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WS_10m(m/s),QC_WS_10m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WS_20m(m/s),QC_WS_20m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WD_1m(degree),QC_WD_1m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WD_2m(degree),QC_WD_2m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WD_4m(degree),QC_WD_4m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WD_10m(degree),QC_WD_10m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,WD_20m(degree),QC_WD_20m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Ta_1m(degree C),QC_Ta_1m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Ta_2m(degree C),QC_Ta_2m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Ta_4m(degree C),QC_Ta_4m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Ta_10m(degree C),QC_Ta_10m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Ta_20m(degree C),QC_Ta_20m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,RH_1m(%),QC_RH_1m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,RH_2m(%),QC_RH_2m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,RH_4m(%),QC_RH_4m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,RH_10m(%),QC_RH_10m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,RH_20m(%),QC_RH_20m,0,0,0,0,0,0
+MET_Gyirong_2023.csv,MET,2023,Pressure(hPa),QC_Pressure,0,1,0,1,0,1
+MET_Gyirong_2023.csv,MET,2023,Precip(mm),,0,2,0,0,0,2
+MET_Gyirong_2024.csv,MET,2024,WS_1m(m/s),QC_WS_1m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WS_2m(m/s),QC_WS_2m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WS_4m(m/s),QC_WS_4m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WS_10m(m/s),QC_WS_10m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WS_20m(m/s),QC_WS_20m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WD_1m(degree),QC_WD_1m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WD_2m(degree),QC_WD_2m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WD_4m(degree),QC_WD_4m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WD_10m(degree),QC_WD_10m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,WD_20m(degree),QC_WD_20m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Ta_1m(degree C),QC_Ta_1m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Ta_2m(degree C),QC_Ta_2m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Ta_4m(degree C),QC_Ta_4m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Ta_10m(degree C),QC_Ta_10m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Ta_20m(degree C),QC_Ta_20m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,RH_1m(%),QC_RH_1m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,RH_2m(%),QC_RH_2m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,RH_4m(%),QC_RH_4m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,RH_10m(%),QC_RH_10m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,RH_20m(%),QC_RH_20m,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Pressure(hPa),QC_Pressure,0,3,0,3,0,3
+MET_Gyirong_2024.csv,MET,2024,Precip(mm),,0,2,0,0,0,2
+MET_Gyirong_2025.csv,MET,2025,WS_1m(m/s),QC_WS_1m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WS_2m(m/s),QC_WS_2m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WS_4m(m/s),QC_WS_4m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WS_10m(m/s),QC_WS_10m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WS_20m(m/s),QC_WS_20m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WD_1m(degree),QC_WD_1m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WD_2m(degree),QC_WD_2m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WD_4m(degree),QC_WD_4m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WD_10m(degree),QC_WD_10m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,WD_20m(degree),QC_WD_20m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Ta_1m(degree C),QC_Ta_1m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Ta_2m(degree C),QC_Ta_2m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Ta_4m(degree C),QC_Ta_4m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Ta_10m(degree C),QC_Ta_10m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Ta_20m(degree C),QC_Ta_20m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,RH_1m(%),QC_RH_1m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,RH_2m(%),QC_RH_2m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,RH_4m(%),QC_RH_4m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,RH_10m(%),QC_RH_10m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,RH_20m(%),QC_RH_20m,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Pressure(hPa),QC_Pressure,0,0,0,0,0,0
+MET_Gyirong_2025.csv,MET,2025,Precip(mm),,0,1,0,0,0,1
+MET_Gyirong_2026.csv,MET,2026,WS_1m(m/s),QC_WS_1m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WS_2m(m/s),QC_WS_2m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WS_4m(m/s),QC_WS_4m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WS_10m(m/s),QC_WS_10m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WS_20m(m/s),QC_WS_20m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WD_1m(degree),QC_WD_1m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WD_2m(degree),QC_WD_2m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WD_4m(degree),QC_WD_4m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WD_10m(degree),QC_WD_10m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,WD_20m(degree),QC_WD_20m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Ta_1m(degree C),QC_Ta_1m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Ta_2m(degree C),QC_Ta_2m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Ta_4m(degree C),QC_Ta_4m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Ta_10m(degree C),QC_Ta_10m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Ta_20m(degree C),QC_Ta_20m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,RH_1m(%),QC_RH_1m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,RH_2m(%),QC_RH_2m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,RH_4m(%),QC_RH_4m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,RH_10m(%),QC_RH_10m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,RH_20m(%),QC_RH_20m,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Pressure(hPa),QC_Pressure,0,3039,0,3039,0,3039
+MET_Gyirong_2026.csv,MET,2026,Precip(mm),,0,3040,0,0,0,3040
+SOIL_Gyirong_2021.csv,SOIL,2021,soilT_0.1m(degree C),QC_soilT_0.1m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,soilT_0.2m(degree C),QC_soilT_0.2m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,soilT_0.4m(degree C),QC_soilT_0.4m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,soilT_0.8m(degree C),QC_soilT_0.8m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,soilT_1.6m(degree C),QC_soilT_1.6m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,2774,0,2774,0,2774
+SOIL_Gyirong_2021.csv,SOIL,2021,G_0.1m(W/m2),QC_G_0.1m,0,3000,0,3000,0,3000
+SOIL_Gyirong_2021.csv,SOIL,2021,G_0.2m(W/m2),QC_G_0.2m,0,2780,0,2780,0,2780
+SOIL_Gyirong_2022.csv,SOIL,2022,soilT_0.1m(degree C),QC_soilT_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,soilT_0.2m(degree C),QC_soilT_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,soilT_0.4m(degree C),QC_soilT_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,soilT_0.8m(degree C),QC_soilT_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,soilT_1.6m(degree C),QC_soilT_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2022.csv,SOIL,2022,G_0.1m(W/m2),QC_G_0.1m,0,11,0,11,0,11
+SOIL_Gyirong_2022.csv,SOIL,2022,G_0.2m(W/m2),QC_G_0.2m,0,1,0,1,0,1
+SOIL_Gyirong_2023.csv,SOIL,2023,soilT_0.1m(degree C),QC_soilT_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,soilT_0.2m(degree C),QC_soilT_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,soilT_0.4m(degree C),QC_soilT_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,soilT_0.8m(degree C),QC_soilT_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,soilT_1.6m(degree C),QC_soilT_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2023.csv,SOIL,2023,G_0.1m(W/m2),QC_G_0.1m,0,80,0,80,0,80
+SOIL_Gyirong_2023.csv,SOIL,2023,G_0.2m(W/m2),QC_G_0.2m,0,1,0,1,0,1
+SOIL_Gyirong_2024.csv,SOIL,2024,soilT_0.1m(degree C),QC_soilT_0.1m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,soilT_0.2m(degree C),QC_soilT_0.2m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,soilT_0.4m(degree C),QC_soilT_0.4m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,soilT_0.8m(degree C),QC_soilT_0.8m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,soilT_1.6m(degree C),QC_soilT_1.6m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,3,0,3,0,3
+SOIL_Gyirong_2024.csv,SOIL,2024,G_0.1m(W/m2),QC_G_0.1m,0,64,0,64,0,64
+SOIL_Gyirong_2024.csv,SOIL,2024,G_0.2m(W/m2),QC_G_0.2m,0,3,0,3,0,3
+SOIL_Gyirong_2025.csv,SOIL,2025,soilT_0.1m(degree C),QC_soilT_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,soilT_0.2m(degree C),QC_soilT_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,soilT_0.4m(degree C),QC_soilT_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,soilT_0.8m(degree C),QC_soilT_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,soilT_1.6m(degree C),QC_soilT_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,0,0,0,0,0
+SOIL_Gyirong_2025.csv,SOIL,2025,G_0.1m(W/m2),QC_G_0.1m,0,13,0,13,0,13
+SOIL_Gyirong_2025.csv,SOIL,2025,G_0.2m(W/m2),QC_G_0.2m,0,0,0,0,0,0
+SOIL_Gyirong_2026.csv,SOIL,2026,soilT_0.1m(degree C),QC_soilT_0.1m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,soilT_0.2m(degree C),QC_soilT_0.2m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,soilT_0.4m(degree C),QC_soilT_0.4m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,soilT_0.8m(degree C),QC_soilT_0.8m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,soilT_1.6m(degree C),QC_soilT_1.6m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,VWC_0.1m(m3/m3),QC_VWC_0.1m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,VWC_0.2m(m3/m3),QC_VWC_0.2m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,VWC_0.4m(m3/m3),QC_VWC_0.4m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,VWC_0.8m(m3/m3),QC_VWC_0.8m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,VWC_1.6m(m3/m3),QC_VWC_1.6m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,G_0.1m(W/m2),QC_G_0.1m,0,3039,0,3039,0,3039
+SOIL_Gyirong_2026.csv,SOIL,2026,G_0.2m(W/m2),QC_G_0.2m,0,3039,0,3039,0,3039
+RADM_Gyirong_2021.csv,RADM,2021,Rsd(W/m2),QC_Rsd,0,2805,0,2805,0,2805
+RADM_Gyirong_2021.csv,RADM,2021,Rsu(W/m2),QC_rsu,0,2805,0,2805,0,2805
+RADM_Gyirong_2021.csv,RADM,2021,Rld(W/m2),QC_rld,0,2816,0,2816,0,2816
+RADM_Gyirong_2021.csv,RADM,2021,Rlu(W/m2),QC_rlu,0,2816,0,2816,0,2816
+RADM_Gyirong_2022.csv,RADM,2022,Rsd(W/m2),QC_Rsd,0,19,0,19,0,19
+RADM_Gyirong_2022.csv,RADM,2022,Rsu(W/m2),QC_rsu,0,19,0,19,0,19
+RADM_Gyirong_2022.csv,RADM,2022,Rld(W/m2),QC_rld,0,176,0,176,0,176
+RADM_Gyirong_2022.csv,RADM,2022,Rlu(W/m2),QC_rlu,0,176,0,176,0,176
+RADM_Gyirong_2023.csv,RADM,2023,Rsd(W/m2),QC_Rsd,0,1,0,1,0,1
+RADM_Gyirong_2023.csv,RADM,2023,Rsu(W/m2),QC_rsu,0,1,0,1,0,1
+RADM_Gyirong_2023.csv,RADM,2023,Rld(W/m2),QC_rld,0,57,0,57,0,57
+RADM_Gyirong_2023.csv,RADM,2023,Rlu(W/m2),QC_rlu,0,57,0,57,0,57
+RADM_Gyirong_2024.csv,RADM,2024,Rsd(W/m2),QC_Rsd,0,3,0,3,0,3
+RADM_Gyirong_2024.csv,RADM,2024,Rsu(W/m2),QC_rsu,0,3,0,3,0,3
+RADM_Gyirong_2024.csv,RADM,2024,Rld(W/m2),QC_rld,0,29,0,29,0,29
+RADM_Gyirong_2024.csv,RADM,2024,Rlu(W/m2),QC_rlu,0,29,0,29,0,29
+RADM_Gyirong_2025.csv,RADM,2025,Rsd(W/m2),QC_Rsd,0,0,0,0,0,0
+RADM_Gyirong_2025.csv,RADM,2025,Rsu(W/m2),QC_rsu,0,0,0,0,0,0
+RADM_Gyirong_2025.csv,RADM,2025,Rld(W/m2),QC_rld,0,28,0,28,0,28
+RADM_Gyirong_2025.csv,RADM,2025,Rlu(W/m2),QC_rlu,0,28,0,28,0,28
+RADM_Gyirong_2026.csv,RADM,2026,Rsd(W/m2),QC_Rsd,0,3039,0,3039,0,3039
+RADM_Gyirong_2026.csv,RADM,2026,Rsu(W/m2),QC_rsu,0,3039,0,3039,0,3039
+RADM_Gyirong_2026.csv,RADM,2026,Rld(W/m2),QC_rld,0,3039,0,3039,0,3039
+RADM_Gyirong_2026.csv,RADM,2026,Rlu(W/m2),QC_rlu,0,3039,0,3039,0,3039
+FLUX_Gyirong_2021.csv,FLUX,2021,Ux(m/s),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,Uy(m/s),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,Uz(m/s),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,T_SONIC(deg C),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,amb_e(kPa),,3793,0,0,0,0,3793
+FLUX_Gyirong_2021.csv,FLUX,2021,amb_e_sat(kPa),,3793,0,0,0,0,3793
+FLUX_Gyirong_2021.csv,FLUX,2021,e(kPa),,3794,0,0,0,0,3794
+FLUX_Gyirong_2021.csv,FLUX,2021,e_sat(kPa),,3860,0,0,0,0,3860
+FLUX_Gyirong_2021.csv,FLUX,2021,e_probe(kPa),,2977,0,0,0,0,2977
+FLUX_Gyirong_2021.csv,FLUX,2021,e_sat_probe(kPa),,2977,0,0,0,0,2977
+FLUX_Gyirong_2021.csv,FLUX,2021,H2O_probe(g/m3),,2977,0,0,0,0,2977
+FLUX_Gyirong_2021.csv,FLUX,2021,PA(kPa),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,VPD(hPa),,3860,0,0,0,0,3860
+FLUX_Gyirong_2021.csv,FLUX,2021,H2O_density(g/m3),,3793,0,0,0,0,3793
+FLUX_Gyirong_2021.csv,FLUX,2021,FC_mass(mg/m2*s),,3851,0,0,0,0,3851
+FLUX_Gyirong_2021.csv,FLUX,2021,LE(W/m2),,3851,0,0,0,0,3851
+FLUX_Gyirong_2021.csv,FLUX,2021,H(W/m2),,3859,0,0,0,0,3859
+FLUX_Gyirong_2021.csv,FLUX,2021,TAU(kg/m*s2),,3859,0,0,0,0,3859
+FLUX_Gyirong_2021.csv,FLUX,2021,USTAR(m/s),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,TSTAR(deg C),,3851,0,0,0,0,3851
+FLUX_Gyirong_2021.csv,FLUX,2021,TKE(m2/s2),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,FETCH_MAX(m),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,FETCH_90(m),,2983,0,0,0,0,2983
+FLUX_Gyirong_2021.csv,FLUX,2021,FETCH_55(m),,2972,0,0,0,0,2972
+FLUX_Gyirong_2021.csv,FLUX,2021,FETCH_40(m),,2972,0,0,0,0,2972
+FLUX_Gyirong_2022.csv,FLUX,2022,Ux(m/s),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,Uy(m/s),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,Uz(m/s),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,T_SONIC(deg C),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,amb_e(kPa),,4183,0,0,0,0,4183
+FLUX_Gyirong_2022.csv,FLUX,2022,amb_e_sat(kPa),,172,0,0,0,0,172
+FLUX_Gyirong_2022.csv,FLUX,2022,e(kPa),,4183,0,0,0,0,4183
+FLUX_Gyirong_2022.csv,FLUX,2022,e_sat(kPa),,4267,0,0,0,0,4267
+FLUX_Gyirong_2022.csv,FLUX,2022,e_probe(kPa),,4011,0,0,0,0,4011
+FLUX_Gyirong_2022.csv,FLUX,2022,e_sat_probe(kPa),,4011,0,0,0,0,4011
+FLUX_Gyirong_2022.csv,FLUX,2022,H2O_probe(g/m3),,4011,0,0,0,0,4011
+FLUX_Gyirong_2022.csv,FLUX,2022,PA(kPa),,4011,0,0,0,0,4011
+FLUX_Gyirong_2022.csv,FLUX,2022,VPD(hPa),,4267,0,0,0,0,4267
+FLUX_Gyirong_2022.csv,FLUX,2022,H2O_density(g/m3),,4183,0,0,0,0,4183
+FLUX_Gyirong_2022.csv,FLUX,2022,FC_mass(mg/m2*s),,4251,0,0,0,0,4251
+FLUX_Gyirong_2022.csv,FLUX,2022,LE(W/m2),,4251,0,0,0,0,4251
+FLUX_Gyirong_2022.csv,FLUX,2022,H(W/m2),,4267,0,0,0,0,4267
+FLUX_Gyirong_2022.csv,FLUX,2022,TAU(kg/m*s2),,4267,0,0,0,0,4267
+FLUX_Gyirong_2022.csv,FLUX,2022,USTAR(m/s),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,TSTAR(deg C),,4250,0,0,0,0,4250
+FLUX_Gyirong_2022.csv,FLUX,2022,TKE(m2/s2),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,FETCH_MAX(m),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,FETCH_90(m),,4022,0,0,0,0,4022
+FLUX_Gyirong_2022.csv,FLUX,2022,FETCH_55(m),,4013,0,0,0,0,4013
+FLUX_Gyirong_2022.csv,FLUX,2022,FETCH_40(m),,4013,0,0,0,0,4013
+FLUX_Gyirong_2023.csv,FLUX,2023,Ux(m/s),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,Uy(m/s),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,Uz(m/s),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,T_SONIC(deg C),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,amb_e(kPa),,1950,0,0,0,0,1950
+FLUX_Gyirong_2023.csv,FLUX,2023,amb_e_sat(kPa),,1640,0,0,0,0,1640
+FLUX_Gyirong_2023.csv,FLUX,2023,e(kPa),,1952,0,0,0,0,1952
+FLUX_Gyirong_2023.csv,FLUX,2023,e_sat(kPa),,2248,0,0,0,0,2248
+FLUX_Gyirong_2023.csv,FLUX,2023,e_probe(kPa),,310,0,0,0,0,310
+FLUX_Gyirong_2023.csv,FLUX,2023,e_sat_probe(kPa),,309,0,0,0,0,309
+FLUX_Gyirong_2023.csv,FLUX,2023,H2O_probe(g/m3),,310,0,0,0,0,310
+FLUX_Gyirong_2023.csv,FLUX,2023,PA(kPa),,310,0,0,0,0,310
+FLUX_Gyirong_2023.csv,FLUX,2023,VPD(hPa),,2249,0,0,0,0,2249
+FLUX_Gyirong_2023.csv,FLUX,2023,H2O_density(g/m3),,1950,0,0,0,0,1950
+FLUX_Gyirong_2023.csv,FLUX,2023,FC_mass(mg/m2*s),,2220,0,0,0,0,2220
+FLUX_Gyirong_2023.csv,FLUX,2023,LE(W/m2),,2219,0,0,0,0,2219
+FLUX_Gyirong_2023.csv,FLUX,2023,H(W/m2),,2248,0,0,0,0,2248
+FLUX_Gyirong_2023.csv,FLUX,2023,TAU(kg/m*s2),,2246,0,0,0,0,2246
+FLUX_Gyirong_2023.csv,FLUX,2023,USTAR(m/s),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,TSTAR(deg C),,2219,0,0,0,0,2219
+FLUX_Gyirong_2023.csv,FLUX,2023,TKE(m2/s2),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,FETCH_MAX(m),,313,0,0,0,0,313
+FLUX_Gyirong_2023.csv,FLUX,2023,FETCH_90(m),,325,0,0,0,0,325
+FLUX_Gyirong_2023.csv,FLUX,2023,FETCH_55(m),,314,0,0,0,0,314
+FLUX_Gyirong_2023.csv,FLUX,2023,FETCH_40(m),,313,0,0,0,0,313
+FLUX_Gyirong_2024.csv,FLUX,2024,Ux(m/s),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,Uy(m/s),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,Uz(m/s),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,T_SONIC(deg C),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,amb_e(kPa),,1475,0,0,0,0,1475
+FLUX_Gyirong_2024.csv,FLUX,2024,amb_e_sat(kPa),,1434,0,0,0,0,1434
+FLUX_Gyirong_2024.csv,FLUX,2024,e(kPa),,1528,0,0,0,0,1528
+FLUX_Gyirong_2024.csv,FLUX,2024,e_sat(kPa),,1679,0,0,0,0,1679
+FLUX_Gyirong_2024.csv,FLUX,2024,e_probe(kPa),,44,0,0,0,0,44
+FLUX_Gyirong_2024.csv,FLUX,2024,e_sat_probe(kPa),,44,0,0,0,0,44
+FLUX_Gyirong_2024.csv,FLUX,2024,H2O_probe(g/m3),,44,0,0,0,0,44
+FLUX_Gyirong_2024.csv,FLUX,2024,PA(kPa),,44,0,0,0,0,44
+FLUX_Gyirong_2024.csv,FLUX,2024,VPD(hPa),,1679,0,0,0,0,1679
+FLUX_Gyirong_2024.csv,FLUX,2024,H2O_density(g/m3),,1475,0,0,0,0,1475
+FLUX_Gyirong_2024.csv,FLUX,2024,FC_mass(mg/m2*s),,1659,0,0,0,0,1659
+FLUX_Gyirong_2024.csv,FLUX,2024,LE(W/m2),,1658,0,0,0,0,1658
+FLUX_Gyirong_2024.csv,FLUX,2024,H(W/m2),,1677,0,0,0,0,1677
+FLUX_Gyirong_2024.csv,FLUX,2024,TAU(kg/m*s2),,1677,0,0,0,0,1677
+FLUX_Gyirong_2024.csv,FLUX,2024,USTAR(m/s),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,TSTAR(deg C),,1659,0,0,0,0,1659
+FLUX_Gyirong_2024.csv,FLUX,2024,TKE(m2/s2),,102,0,0,0,0,102
+FLUX_Gyirong_2024.csv,FLUX,2024,FETCH_MAX(m),,109,0,0,0,0,109
+FLUX_Gyirong_2024.csv,FLUX,2024,FETCH_90(m),,116,0,0,0,0,116
+FLUX_Gyirong_2024.csv,FLUX,2024,FETCH_55(m),,109,0,0,0,0,109
+FLUX_Gyirong_2024.csv,FLUX,2024,FETCH_40(m),,109,0,0,0,0,109
+FLUX_Gyirong_2025.csv,FLUX,2025,Ux(m/s),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,Uy(m/s),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,Uz(m/s),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,T_SONIC(deg C),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,amb_e(kPa),,661,0,0,0,0,661
+FLUX_Gyirong_2025.csv,FLUX,2025,amb_e_sat(kPa),,661,0,0,0,0,661
+FLUX_Gyirong_2025.csv,FLUX,2025,e(kPa),,732,0,0,0,0,732
+FLUX_Gyirong_2025.csv,FLUX,2025,e_sat(kPa),,1005,0,0,0,0,1005
+FLUX_Gyirong_2025.csv,FLUX,2025,e_probe(kPa),,0,0,0,0,0,0
+FLUX_Gyirong_2025.csv,FLUX,2025,e_sat_probe(kPa),,0,0,0,0,0,0
+FLUX_Gyirong_2025.csv,FLUX,2025,H2O_probe(g/m3),,0,0,0,0,0,0
+FLUX_Gyirong_2025.csv,FLUX,2025,PA(kPa),,0,0,0,0,0,0
+FLUX_Gyirong_2025.csv,FLUX,2025,VPD(hPa),,1006,0,0,0,0,1006
+FLUX_Gyirong_2025.csv,FLUX,2025,H2O_density(g/m3),,661,0,0,0,0,661
+FLUX_Gyirong_2025.csv,FLUX,2025,FC_mass(mg/m2*s),,976,0,0,0,0,976
+FLUX_Gyirong_2025.csv,FLUX,2025,LE(W/m2),,974,0,0,0,0,974
+FLUX_Gyirong_2025.csv,FLUX,2025,H(W/m2),,1005,0,0,0,0,1005
+FLUX_Gyirong_2025.csv,FLUX,2025,TAU(kg/m*s2),,1005,0,0,0,0,1005
+FLUX_Gyirong_2025.csv,FLUX,2025,USTAR(m/s),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,TSTAR(deg C),,977,0,0,0,0,977
+FLUX_Gyirong_2025.csv,FLUX,2025,TKE(m2/s2),,73,0,0,0,0,73
+FLUX_Gyirong_2025.csv,FLUX,2025,FETCH_MAX(m),,82,0,0,0,0,82
+FLUX_Gyirong_2025.csv,FLUX,2025,FETCH_90(m),,89,0,0,0,0,89
+FLUX_Gyirong_2025.csv,FLUX,2025,FETCH_55(m),,81,0,0,0,0,81
+FLUX_Gyirong_2025.csv,FLUX,2025,FETCH_40(m),,81,0,0,0,0,81
+FLUX_Gyirong_2026.csv,FLUX,2026,Ux(m/s),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,Uy(m/s),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,Uz(m/s),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,T_SONIC(deg C),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,amb_e(kPa),,3360,0,0,0,0,3360
+FLUX_Gyirong_2026.csv,FLUX,2026,amb_e_sat(kPa),,3360,0,0,0,0,3360
+FLUX_Gyirong_2026.csv,FLUX,2026,e(kPa),,3413,0,0,0,0,3413
+FLUX_Gyirong_2026.csv,FLUX,2026,e_sat(kPa),,3594,0,0,0,0,3594
+FLUX_Gyirong_2026.csv,FLUX,2026,e_probe(kPa),,3039,0,0,0,0,3039
+FLUX_Gyirong_2026.csv,FLUX,2026,e_sat_probe(kPa),,3039,0,0,0,0,3039
+FLUX_Gyirong_2026.csv,FLUX,2026,H2O_probe(g/m3),,3039,0,0,0,0,3039
+FLUX_Gyirong_2026.csv,FLUX,2026,PA(kPa),,3039,0,0,0,0,3039
+FLUX_Gyirong_2026.csv,FLUX,2026,VPD(hPa),,3594,0,0,0,0,3594
+FLUX_Gyirong_2026.csv,FLUX,2026,H2O_density(g/m3),,3360,0,0,0,0,3360
+FLUX_Gyirong_2026.csv,FLUX,2026,FC_mass(mg/m2*s),,3577,0,0,0,0,3577
+FLUX_Gyirong_2026.csv,FLUX,2026,LE(W/m2),,3575,0,0,0,0,3575
+FLUX_Gyirong_2026.csv,FLUX,2026,H(W/m2),,3593,0,0,0,0,3593
+FLUX_Gyirong_2026.csv,FLUX,2026,TAU(kg/m*s2),,3593,0,0,0,0,3593
+FLUX_Gyirong_2026.csv,FLUX,2026,USTAR(m/s),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,TSTAR(deg C),,3577,0,0,0,0,3577
+FLUX_Gyirong_2026.csv,FLUX,2026,TKE(m2/s2),,3092,0,0,0,0,3092
+FLUX_Gyirong_2026.csv,FLUX,2026,FETCH_MAX(m),,3094,0,0,0,0,3094
+FLUX_Gyirong_2026.csv,FLUX,2026,FETCH_90(m),,3098,0,0,0,0,3098
+FLUX_Gyirong_2026.csv,FLUX,2026,FETCH_55(m),,3094,0,0,0,0,3094
+FLUX_Gyirong_2026.csv,FLUX,2026,FETCH_40(m),,3094,0,0,0,0,3094

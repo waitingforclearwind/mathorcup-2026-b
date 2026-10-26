@@ -1,0 +1,5 @@
+# 仅安装 01_build_master.py 所需依赖；实际验证版本见 requirements-lock.txt。
+pandas>=2.0,<4
+numpy>=1.26,<3
+pyarrow>=15,<25
+

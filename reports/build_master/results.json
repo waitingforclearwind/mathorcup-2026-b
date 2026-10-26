@@ -1,0 +1,199 @@
+{
+  "build_master": {
+    "status": "completed",
+    "built_at": "2026-10-26T16:41:32.210678+08:00",
+    "input_dir": "F:\\desktop\\一堆文件\\big school\\大二\\上学期\\啥比赛\\mathorcup\\B题\\2026年MathorCup大数据挑战赛-赛道B初赛\\附件\\（1）西藏吉隆高寒山区地气相互作用逐小时综合观测数据集（2021–2026）",
+    "output_dir": "C:\\Users\\zhong\\PyCharmMiscProject\\机器学习\\啥比赛\\mathor cup\\data\\processed",
+    "rows": 49545,
+    "columns": 64,
+    "physical_columns": 63,
+    "time_start": "2021-01-01 00:00:00",
+    "time_end": "2026-08-27 08:00:00",
+    "timestamp_policy": "保留 CSV 无时区时间；按交接文件暂作北京时间解读，未作 UTC 转换，原始时区元数据待核实。",
+    "cleaning_policy": "abs(value)>=9999 或 QC=8 或非有限值转 NaN；保留其余 QC 对应值；不插补。",
+    "event_anchor_from_handover": "2026-08-26 10:52:10",
+    "event_time_in_problem": "2026-08-26 10:30:00",
+    "event_day_precip_valid_hours": 24,
+    "event_day_precip_mm": 0.0,
+    "event_day_precip_all_zero": true,
+    "first_positive_precip_after_event": {
+      "timestamp": "2026-08-27 01:00:00",
+      "precip_mm": 0.2
+    },
+    "event_window_rows": 105,
+    "event_window_start": "2026-08-23 00:00:00",
+    "event_window_end": "2026-08-27 08:00:00",
+    "precip_missing": [
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2021,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 5984,
+        "n_missing": 2776,
+        "missing_rate": 0.31689497716894977
+      },
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2022,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8759,
+        "n_missing": 1,
+        "missing_rate": 0.00011415525114155251
+      },
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2023,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8758,
+        "n_missing": 2,
+        "missing_rate": 0.00022831050228310502
+      },
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2024,
+        "variable": "Precip(mm)",
+        "n_rows": 8784,
+        "n_valid": 8782,
+        "n_missing": 2,
+        "missing_rate": 0.00022768670309653916
+      },
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2025,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8759,
+        "n_missing": 1,
+        "missing_rate": 0.00011415525114155251
+      },
+      {
+        "scope": "raw_file",
+        "table": "MET",
+        "year": 2026,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 5720,
+        "n_missing": 3040,
+        "missing_rate": 0.3470319634703196
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2021,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 5984,
+        "n_missing": 2776,
+        "missing_rate": 0.31689497716894977
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2022,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8759,
+        "n_missing": 1,
+        "missing_rate": 0.00011415525114155251
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2023,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8758,
+        "n_missing": 2,
+        "missing_rate": 0.00022831050228310502
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2024,
+        "variable": "Precip(mm)",
+        "n_rows": 8784,
+        "n_valid": 8782,
+        "n_missing": 2,
+        "missing_rate": 0.00022768670309653916
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2025,
+        "variable": "Precip(mm)",
+        "n_rows": 8760,
+        "n_valid": 8759,
+        "n_missing": 1,
+        "missing_rate": 0.00011415525114155251
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": 2026,
+        "variable": "Precip(mm)",
+        "n_rows": 5721,
+        "n_valid": 5720,
+        "n_missing": 1,
+        "missing_rate": 0.00017479461632581716
+      },
+      {
+        "scope": "master_hourly",
+        "table": "MET",
+        "year": "ALL",
+        "variable": "Precip(mm)",
+        "n_rows": 49545,
+        "n_valid": 46762,
+        "n_missing": 2783,
+        "missing_rate": 0.05617115753355535
+      }
+    ],
+    "timeline": [
+      {
+        "table": "MET",
+        "raw_rows": 52584,
+        "master_rows": 49545,
+        "padding_rows_removed": 3039,
+        "missing_timestamp_rows_in_master": 0,
+        "all_physical_missing_rows_in_master": 2775
+      },
+      {
+        "table": "SOIL",
+        "raw_rows": 52584,
+        "master_rows": 49545,
+        "padding_rows_removed": 3039,
+        "missing_timestamp_rows_in_master": 0,
+        "all_physical_missing_rows_in_master": 2777
+      },
+      {
+        "table": "RADM",
+        "raw_rows": 52584,
+        "master_rows": 49545,
+        "padding_rows_removed": 3039,
+        "missing_timestamp_rows_in_master": 0,
+        "all_physical_missing_rows_in_master": 2828
+      },
+      {
+        "table": "FLUX",
+        "raw_rows": 52584,
+        "master_rows": 49545,
+        "padding_rows_removed": 3039,
+        "missing_timestamp_rows_in_master": 0,
+        "all_physical_missing_rows_in_master": 2975
+      }
+    ],
+    "environment": {
+      "python": "3.13.14",
+      "numpy": "2.5.4",
+      "pandas": "3.1.0",
+      "pyarrow": "24.0.0"
+    }
+  }
+}

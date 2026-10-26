@@ -1,0 +1,5 @@
+﻿table,raw_rows,master_rows,padding_rows_removed,missing_timestamp_rows_in_master,all_physical_missing_rows_in_master
+MET,52584,49545,3039,0,2775
+SOIL,52584,49545,3039,0,2777
+RADM,52584,49545,3039,0,2828
+FLUX,52584,49545,3039,0,2975
